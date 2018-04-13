@@ -6,9 +6,7 @@ categories:
 - 小日子
 ---
 
-<audio src="https://i.y.qq.com/v8/playsong.html?songid=473134&source=yqq#wechat_redirect" controls="controls">
-Your browser does not support the audio tag.
-</audio>
+<embed src="//music.163.com/style/swf/widget.swf?sid=375023&type=2&auto=1&width=278&height=32" width="298" height="52"  allowNetworking="all">
 
 今天是农历生日。从今天开始，就真的没有资格说自己29岁了。  
 既来之则安之，祝你30岁生日快乐。  
@@ -28,16 +26,16 @@ Your browser does not support the audio tag.
 今天的菜式有点换新的意思，还蛮好吃的。  
 为了试试看能不能成功插入图片，我决定破例来上个美食图。 
 
-![IMG_2896.jpg](file:///Users/lamyeungchie/Documents/GitHub/moonicake.github.io/media/IMG_2896.jpg)  
+![](/media/IMG_2896.jpg)
 
-![IMG_2897.jpg](file:///Users/lamyeungchie/Documents/GitHub/moonicake.github.io/media/IMG_2897.jpg)  
+![](/media/IMG_2897.jpg)
 
 （洒啊for！为我的智商所折服！！！）  
 
 本来交代了亲姐说不要订蛋糕，然鹅亲姐还是订了我最喜欢的那家人的蛋糕诶！然后还玩了个小惊喜，让斌斌点着蜡烛从包厢外面边唱歌边摇进来。结果很搞笑，斌斌走路风太大，第一次进来的时候把蜡烛给吹灭了。走到我跟前，一脸懵逼哈哈哈哈...然后立刻重新出去，亲姐给点上蜡烛，这位小朋友再用同样的姿势摇进来。要笑死我哈哈哈哈...  
 来上个蛋糕图。  
 
-![IMG_2882.jpg](file:///Users/lamyeungchie/Documents/GitHub/moonicake.github.io/media/IMG_2882.jpg)  
+![](/media/IMG_2882.jpg)
 
 美不美呐！！！！就问你美不美！！！  
 到这里就不得不感叹一下，亲姐待我真的是真爱...
@@ -45,16 +43,16 @@ Your browser does not support the audio tag.
 
 今天也有合照哦！虽然拍得非常失败，但是也是要PO上来纪念一下了。（主要也是因为插图插上瘾了...）。
 
-![IMG_2887.jpg](file:///Users/lamyeungchie/Documents/GitHub/moonicake.github.io/media/IMG_2887.jpg)  
+![](/media/IMG_2887.jpg)
 
 合照可以说是很失败了，接下来还有更失败的。  
 亲姐让我抱着蛋糕拍个照留念，然后她就帮我拍了这样一张照片：  
 
-![IMG_2886.jpg](file:///Users/lamyeungchie/Documents/GitHub/moonicake.github.io/media/IMG_2886.jpg)  
+![](/media/IMG_2886.jpg)
 
 本来也没觉得怎么样，结果她自己居然在我手机里留下一张这样的照片：  
 
-![IMG_2883.jpg](file:///Users/lamyeungchie/Documents/GitHub/moonicake.github.io/media/IMG_2883.jpg)  
+![](/media/IMG_2883.jpg)
 
 对比可以再大一点的亲姐...（自行脑补微笑脸）  
 
@@ -71,6 +69,6 @@ Your browser does not support the audio tag.
 送自己一个大大的笑容，迎接一个全新的人生阶段吧！  
 亲爱的自己，祝你幸福和快乐，快点长大。  
 
-![IMG_2898.jpg](file:///Users/lamyeungchie/Documents/GitHub/moonicake.github.io/media/IMG_2898.jpg)
+![](/media/IMG_2898.jpg)
 
 
