@@ -6,8 +6,6 @@ categories:
 - 小日子
 ---
 
-<embed src="//music.163.com/style/swf/widget.swf?sid=375023&type=2&auto=1&width=278&height=32" width="298" height="52"  allowNetworking="all">
-
 今天是农历生日。从今天开始，就真的没有资格说自己29岁了。  
 既来之则安之，祝你30岁生日快乐。  
 愿望是：
