@@ -2,7 +2,6 @@
 {% if site.paginate > 0 %}{% assign posts = paginator.posts %}{% endif %}
 
 <section id="posts" class="posts-expand">
-  123
   {% assign sortedPosts = posts | sort: 'sticky', 'date' %}
   {% for post in sortedPosts %}
     {% assign is_index = true %}
