@@ -2,7 +2,6 @@
 layout: post
 title:  "患得患失hdhs"
 date: 2018-8-13 13:49:57 +8:00 
-sticky: 0
 categories: 
 - 小日子
 ---

@@ -2,7 +2,6 @@
 layout: post
 title:  "煎熬"
 date: 2018-07-20 02:13:13 +8:00
-sticky: 0
 categories: 
 - 小日子
 ---
